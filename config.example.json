@@ -1,0 +1,12 @@
+{
+    "last_ip": "56.127.243.39",
+    "domains": [
+        {
+            "zone_id": "HERE YOUR ZONE ID",
+            "record_id": "HERE YOUR RECORD ID",
+            "type": "A",
+            "name": "HERE YOUR DOMAIN",
+            "bearer": "HERE YOUR BEARER TOKEN"
+        }
+    ]
+}
